@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pedidos</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="novo_pedido">Novo pedido</string>
+    <string name="voce_possui_x_pedidos">Voce possui x pedidos</string>
+    <string name="codigo_do_pedido">Codigo do pedido:</string>
+    <string name="quantidade_de_itens">Quantidade de itens:</string>
+    <string name="preco_total">Preço:</string>
+    <string name="produto">Produto:</string>
+    <string name="lembrar_me">Lembrar-me</string>
+    <string name="preco">Preco:</string>
+    <string name="comprar">Comprar</string>
+</resources>
